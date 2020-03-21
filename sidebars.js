@@ -1,6 +1,10 @@
 module.exports = {
   someSidebar: {
-    Docusaurus: ['doc1', 'doc2', 'doc3'],
-    Features: ['mdx'],
-  },
+    Welcome: ["greeting"],
+    "General JavaScript": ["js/generators", "js/redux-saga"],
+    NodeJS: ["nodejs/graphql-basics"],
+    React: ["react/react-with-graphql-apollo"],
+    Architecture: ["architecture/yarn-lerna-monorepo"],
+    Testing: []
+  }
 };
