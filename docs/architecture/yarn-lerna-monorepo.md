@@ -4,7 +4,7 @@ title: Yarn-Lerna Monorepo
 sidebar_label: Yarn-Lerna Monorepo
 ---
 
-This is a guide on how to set up a new front-end project, using a monorepo approach based on Yarn Workspaces + Lerna.
+This is a guide on how to set up a new project, using a monorepo approach based on Yarn Workspaces + Lerna.
 
 A high-level overview of the technology stack:
 
