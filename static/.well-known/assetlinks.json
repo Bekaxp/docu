@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.bekainstaclip",
+               "sha256_cert_fingerprints": ["B8:84:FD:42:CD:6F:C1:5D:FF:EE:53:56:BA:E1:76:50:15:AD:E8:FB:35:01:46:13:4C:D9:4C:71:E6:F3:D1:D9"] }
+}]
