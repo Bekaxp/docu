@@ -1,5 +1,15 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { "namespace": "android_app", "package_name": "com.bekainstaclip",
-               "sha256_cert_fingerprints": ["B8:84:FD:42:CD:6F:C1:5D:FF:EE:53:56:BA:E1:76:50:15:AD:E8:FB:35:01:46:13:4C:D9:4C:71:E6:F3:D1:D9"] }
-}]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.bekainstaclip",
+      "sha256_cert_fingerprints": [
+        "B8:84:FD:42:CD:6F:C1:5D:FF:EE:53:56:BA:E1:76:50:15:AD:E8:FB:35:01:46:13:4C:D9:4C:71:E6:F3:D1:D9",
+        "70:2C:55:75:CC:6B:9B:7B:9C:0D:96:8C:2F:05:A4:22:55:3F:6A:8A:E7:BC:D7:91:45:35:DA:E8:61:93:1E:61"
+      ]
+    }
+  }
+]
